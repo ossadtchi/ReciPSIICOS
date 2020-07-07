@@ -18,4 +18,4 @@ Simulations:
 
 4.1 plot_simulations_threesrc.m -- visualize simulations with three sources (input data on GDrive).
 
-5. MMN analysis: real_data_mmn.m -- analysis of auditory evoked MMN, using mmn.mat and G3_mmn.mat (GDrive).
+5.1 MMN analysis: real_data_mmn.m -- analysis of auditory evoked MMN, using mmn.mat and G3_mmn.mat (GDrive).
