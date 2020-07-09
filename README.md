@@ -25,5 +25,6 @@ Simulations:
 
 Real data:
 
-5.1 MMN analysis: real_data_mmn.m -- analysis of auditory evoked MMN, using mmn.mat and G3_mmn.mat (GDrive).
+5.1 MMN analysis: real_data_mmn.m -- analysis of auditory evoked MMN, using mmn.mat and G3_mmn.mat (GDrive)
+
 5.2 40 Hz audio stim: real_data_40Hz.m -- analysis of 40 Hz audio stim data
