@@ -3,7 +3,9 @@
 This code implements ReciPSIICOS beamforming technique, performs simulations, applies it to two real datasets. The core of the code has not been modified 
 since the original submission of the paper https://www.biorxiv.org/content/10.1101/668814v1. 
 
-Data source: https://drive.google.com/drive/folders/1kZjO7CgZNYVGtrciPKmdTiAvkHW4pUsb?usp=sharing
+Data source (sims and MMN): https://drive.google.com/drive/folders/1kZjO7CgZNYVGtrciPKmdTiAvkHW4pUsb?usp=sharing
+
+Data source (40 Hz audio) : https://drive.google.com/drive/folders/1xuZjj7UVC0LkQluQN7BayomUIW9J3c7f?usp=sharing
 
 Simulations:
 
@@ -24,4 +26,4 @@ Simulations:
 Real data:
 
 5.1 MMN analysis: real_data_mmn.m -- analysis of auditory evoked MMN, using mmn.mat and G3_mmn.mat (GDrive).
-5.2 40 Hz audio stim: ReciPSIICOS_real_data.m , today 09072020, will upload the 40 Hz audio stim data and the associated FMs and channe structs by 11072020
+5.2 40 Hz audio stim: real_data_40Hz.m -- analysis of 40 Hz audio stim data
